@@ -1,5 +1,7 @@
 # Ejercicio SASS
 
+Completa el siguiente ejercicio basado en este [vídeo](https://www.youtube.com/watch?v=nu5mdN2JIwM).
+
 1. Añade el código SCSS necesario en _style.scss para estilizar la sección de equipo. Utiliza el __nesting__ propio de SASS para definir los estilos, siguiendo el ejemplo de 'showcase'. Usa el operador '&' en alguna ocasión
 2. Explore el fichero main.css. Fíjate que se han generado varios estilos de forma dinámica: m-0, m-1, m-2, my-0, my-1, etc. Esto se debe al bucle @each en la linia 11 de _utilities.scss. En la linia 28 del HTML usa la clase 'my-1'; para seprar 1rem el contenedor por el top i el bottom. Añade una clase en el elemento HTML adecuado  para dejar 5 rem de margen entre la sección del header y la sección de equipo.
 3. Añade una nueva regla CSS en **responsive/_mobile.scss**; para que al llegar a 700px el viewport, los miembros del equipo queden apilados unos encima de otros.

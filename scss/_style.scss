@@ -62,30 +62,4 @@
       }
     }
   }
-
-  .team {
-    .team--members {
-        display: flex;
-        align-content: center;
-        justify-content: center;
-        gap: 1rem;
-
-        .team--member {
-            text-align: center;
-            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-            border-radius: 5px;
-            padding-top: 1rem;
-            background-image: url('/img/pawn');
-            width: 300px;
-            max-width: 450px;
-    
-            &__info {
-                background-color: rgba(0, 0, 0, 0.3);
-            }
-        }
-    } 
-   
-
-
-}
   

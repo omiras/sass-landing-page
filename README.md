@@ -12,4 +12,4 @@
 
 ## BONUS
 
-Serias capaz de enriquecer  el bucle de la linia 11 de _utilities.scss? Queremos generar ahora 5 clases nuevas: .mt-1 , .mt-2, .mt-3, .mt-4, .mt-5. Estas clases permitiran separar 1,2,3,4,5 píxeles el elemento HTML SOLO en la parte superior (top). Piensa como montar esta regla CSS dinámics dentro de la directiva @each.
+Serias capaz de enriquecer  el bucle de la linia 11 de _utilities.scss? Queremos generar ahora 5 clases nuevas: .mt-1 , .mt-2, .mt-3, .mt-4, .mt-5. Estas clases permitiran separar 1,2,3,4,5 rem el elemento HTML SOLO en la parte superior (top). Piensa como montar esta regla CSS dinámics dentro de la directiva @each.
